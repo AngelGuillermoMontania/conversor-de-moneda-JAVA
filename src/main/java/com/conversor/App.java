@@ -55,8 +55,8 @@ public class App extends Application {
 
 
     public static void main(String[] args) {
-        while (true) {
-            launch(); 
+        while(true) {
+            launch();
         }
     }
 
